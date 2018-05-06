@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+#coding:utf-8
+"""
+  Author: YeliangLi
+  Created: 2018/5/6
+"""
+
 import tensorflow as tf
 
 class CustomCell(tf.contrib.rnn.RNNCell):
@@ -65,7 +72,7 @@ if __name__ == "__main__":
         print(o3)
 
 '''
-Êä³ö½á¹û£º
+ÃŠÃ¤Â³Ã¶Â½Ã¡Â¹Ã»Â£Âº
 
 [[[ 1.]
   [ 3.]
