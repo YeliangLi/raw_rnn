@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+﻿#!/usr/bin/env python
 #coding:utf-8
 """
   Author: YeliangLi
@@ -72,7 +72,7 @@ if __name__ == "__main__":
         print(o3)
 
 '''
-Êä³ö½á¹û£º
+输出结果：
 
 [[[ 1.]
   [ 3.]
